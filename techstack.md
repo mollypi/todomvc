@@ -5,10 +5,10 @@ mollypi/todomvc is built on the following main stack:
 
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
 - [Babel](http://babeljs.io/) – JavaScript Compilers
-- [rollup](http://rollupjs.org/) – JS Build Tools / JS Task Runners
-- [Yarn](https://yarnpkg.com/) – Front End Package Manager
 - [Cypress](https://www.cypress.io/) – Javascript Testing Framework
 - [GitHub Actions](https://github.com/features/actions) – Continuous Integration
+- [Yarn](https://yarnpkg.com/) – Front End Package Manager
+- [rollup](http://rollupjs.org/) – JS Build Tools / JS Task Runners
 
 Full tech stack [here](/techstack.md)
 
@@ -20,10 +20,10 @@ mollypi/todomvc is built on the following main stack:
 
 - <img width='25' height='25' src='https://img.stackshare.io/service/1209/javascript.jpeg' alt='JavaScript'/> [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/2739/-1wfGjNw.png' alt='Babel'/> [Babel](http://babeljs.io/) – JavaScript Compilers
-- <img width='25' height='25' src='https://img.stackshare.io/service/4423/zE8RTn9E_400x400.jpg' alt='rollup'/> [rollup](http://rollupjs.org/) – JS Build Tools / JS Task Runners
-- <img width='25' height='25' src='https://img.stackshare.io/service/5848/44mC-kJ3.jpg' alt='Yarn'/> [Yarn](https://yarnpkg.com/) – Front End Package Manager
 - <img width='25' height='25' src='https://img.stackshare.io/service/9231/default_66c5c1a197dcd0232e41e4ab6299d119b4e165b3.png' alt='Cypress'/> [Cypress](https://www.cypress.io/) – Javascript Testing Framework
 - <img width='25' height='25' src='https://img.stackshare.io/service/11563/actions.png' alt='GitHub Actions'/> [GitHub Actions](https://github.com/features/actions) – Continuous Integration
+- <img width='25' height='25' src='https://img.stackshare.io/service/5848/44mC-kJ3.jpg' alt='Yarn'/> [Yarn](https://yarnpkg.com/) – Front End Package Manager
+- <img width='25' height='25' src='https://img.stackshare.io/service/4423/zE8RTn9E_400x400.jpg' alt='rollup'/> [rollup](http://rollupjs.org/) – JS Build Tools / JS Task Runners
 
 Full tech stack [here](/techstack.md)
 
@@ -34,7 +34,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [mollypi/todomvc](https://github.com/mollypi/todomvc)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|11<br/>Tools used|01/05/24 <br/>Report generated|
+|11<br/>Tools used|02/29/24 <br/>Report generated|
 |------|------|
 </div>
 
